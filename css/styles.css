@@ -1,4 +1,21 @@
-/* Awesome Styling */
 h1 {
-  color: rebeccapurple;
+  color: red;
+  font-size: 6em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.char1 {
+  color: green;
+  
+}
+
+.char2 {
+  color: blue;
+  letter-spacing: -8px;
+}
+
+.char3 {
+  color: violet;
 }

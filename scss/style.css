@@ -1,0 +1,27 @@
+/* Awesome Styling */
+/* line 2, /Users/ssmith110/Downloads/movie-trailer/scss/style.scss */
+h1 {
+  color: rebeccapurple; }
+
+/* line 5, /Users/ssmith110/Downloads/movie-trailer/scss/style.scss */
+h1 {
+  color: red;
+  font-size: 6em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center; }
+
+/* line 13, /Users/ssmith110/Downloads/movie-trailer/scss/style.scss */
+.char1 {
+  color: green; }
+
+/* line 18, /Users/ssmith110/Downloads/movie-trailer/scss/style.scss */
+.char2 {
+  color: blue;
+  letter-spacing: -8px; }
+
+/* line 23, /Users/ssmith110/Downloads/movie-trailer/scss/style.scss */
+.char3 {
+  color: violet; }
+
+/*# sourceMappingURL=style.css.map */
